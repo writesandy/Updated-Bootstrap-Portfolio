@@ -35,12 +35,21 @@
 .jumbotron {
     background-image: url('../images/regal.png');
     color: purple;
-    padding: 200px 25px;
+    padding: 225px 25px;
 }
+/* 
+#about {
+    padding: 10px;
+    display: inline-block;
+} */
 
+/* .profile-img {
+    float: right;
+    padding: 5px;
+} */
 
 .container-fluid {
-    padding: 60px 50px;
+    padding: 60px 60px;
 }
 
 .thumbnail {
