@@ -1,6 +1,6 @@
 .navbar {
     margin-bottom: 0;
-    background-color: purple;
+    background-color: #e85A4f;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -14,7 +14,7 @@
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: purple !important;
+    color: #8e8d8a !important;
     background-color: #fff !important;
 }
 
@@ -23,19 +23,28 @@
     color: #fff !important;
 }
 
+#about, #services {
+    background-color: #eae7dc;
+}
 
 .bg-grey {
-    background-color: #f6f6f6;
+    background-color: #eae7dc;
 }
 
 .bg-purple {
-    background-color: lavender;
+    background-color: #d8c3a5;
 }
 
 .jumbotron {
-    background-image: url('../images/regal.png');
-    color: purple;
+    background-image: url('../images/vintage-concrete.png');
+    color: #e85A4f;
     padding: 225px 25px;
+    margin: 0px;
+}
+
+
+h1 {
+    color: #e98074;
 }
 /* 
 #about {
@@ -65,5 +74,5 @@
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: purple;
+    color: #e85A4f;
 }
